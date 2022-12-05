@@ -1,2 +1,3 @@
-# Group7
-Group 7 practice
+# Group7 - ReadME File
+# this is a prctice repository for Group 7 - Enjoy!!!
+# Predeployment
